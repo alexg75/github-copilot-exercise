@@ -74,6 +74,12 @@ activities = {
         "schedule": "Tuesdays, 4:00 PM - 5:00 PM",
         "max_participants": 22,
         "participants": ["maya@mergington.edu", "ethan@mergington.edu"]
+    },
+    "Interfaith Club": {
+        "description": "Explore diverse spiritual traditions and foster interfaith dialogue",
+        "schedule": "Mondays, 4:00 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["sophia@mergington.edu"]
     }
 }
 
